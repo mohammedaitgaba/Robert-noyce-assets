@@ -5,6 +5,7 @@ This data-table component render your data in a table style and add edit and del
 <p>
       <img src="./demo.png" width="800" height="300" title="hover text">
 </p>
+
 ## NB:
 
 This dataTable use tailwindcss make sure to add it proparly in your project
