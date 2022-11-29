@@ -2,6 +2,9 @@
 
 This data-table component render your data in a table style and add edit and delete buttons to each row
 
+<p>
+      <img src="./demo.png" width="800" height="300" title="hover text">
+</p>
 ## NB:
 
 This dataTable use tailwindcss make sure to add it proparly in your project
@@ -14,6 +17,7 @@ Your parent component should looks something like this :
 <p>
       <img src="./parentComp.png" width="350" title="hover text">
 </p>
+
 
 ## update & delete :
 currently im working on the update and the detele buttons
